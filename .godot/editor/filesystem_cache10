@@ -1,5 +1,5 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1776456890
+::res://::1776542906
 default_bus_layout.tres::AudioBusLayout::6564268947468103023::1771685366::0::1::::<><><>0<>0<><>::
 export_presets.cfg::TextFile::-1::1771685366::0::1::::<><><>0<>0<><>::
 icon.png::CompressedTexture2D::7281554251943132898::1771685366::1776455622::1::::<><><>0<>0<>8c15e11ea8ada77581e7f32efe56ddf2<>res://.godot/imported/icon.png-487276ed1e3a0c39cad0279d744ee560.ctex::
@@ -23,9 +23,9 @@ player.gd::GDScript::7934636442772778966::1771685366::0::1::::<>CharacterBody3D<
 player.tscn::PackedScene::9186836937007213028::1771685366::0::1::::<><><>0<>0<><>::uid://dlbukkhb0r7gs::::res://lessons_reference/video_7/player/player.gd<>uid://b6nrg32r2wq86::::res://lessons_reference/video_16/player/simple_gun/blue_gun.tscn
 ::res://lessons_reference/video_7/player/projectile/::1771685366
 projectile.tscn::PackedScene::2217447229611533483::1771685366::0::1::::<><><>0<>0<><>::uid://cexmab3mm00h4::::res://player/projectile/projectile_model.glb<>uid://co5jxefsyvjbo::::res://player/projectile/projectile.gdshader
-::res://lessons_reference/video_16/::1776455892
+::res://lessons_reference/video_16/::1776503704
 game.gd::GDScript::3219434894789878175::1771685366::0::1::::<>Node3D<><>0<>0<><>::
-game.tscn::PackedScene::3473580023937620815::1776455892::0::1::::<><><>0<>0<><>::uid://d3kp34dihjeyd::::res://lessons_reference/video_16/player/player.tscn<>uid://bl4rvfo6g3wbf::::res://lessons_reference/video_16/game.gd<>uid://spdpie6nlr1q::::res://lessons_reference/video_16/level/bridges.tres<>uid://xtl5acmpaa04::::res://lessons_reference/video_16/mob/spawner_3d.tscn<>uid://dfwbq2vombjvr::::res://lessons_reference/video_16/mob/mob.tscn<>uid://cp4gi8r3s3twb::::res://lessons_reference/video_16/level/platforms.tres
+game.tscn::PackedScene::3473580023937620815::1776503704::0::1::::<><><>0<>0<><>::uid://d3kp34dihjeyd::::res://lessons_reference/video_16/player/player.tscn<>uid://bl4rvfo6g3wbf::::res://lessons_reference/video_16/game.gd<>uid://spdpie6nlr1q::::res://lessons_reference/video_16/level/bridges.tres<>uid://xtl5acmpaa04::::res://lessons_reference/video_16/mob/spawner_3d.tscn<>uid://dfwbq2vombjvr::::res://lessons_reference/video_16/mob/mob.tscn<>uid://cp4gi8r3s3twb::::res://lessons_reference/video_16/level/platforms.tres
 ::res://lessons_reference/video_16/level/::1771685366
 bridges.tres::StandardMaterial3D::1294574217474694608::1771685366::0::1::::<><><>0<>0<><>::uid://ismvrp3hwx22::::res://level/checkboard.png
 platforms.tres::StandardMaterial3D::5885921325961858297::1771685366::0::1::::<><><>0<>0<><>::uid://ismvrp3hwx22::::res://level/checkboard.png
